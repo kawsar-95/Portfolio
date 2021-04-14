@@ -4,8 +4,8 @@ import googlelogo from './assets/img/icons/common/google.svg';
 
 export const greetings = {
     "name": "Nuruddin Kawsar",
-    "title": "Hi all, I'm Kawsar",
-    "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+    "title": "Hi all, I'm Nuruddin Kawsar",
+    "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
     "resumeLink": ""
 }
 
@@ -102,8 +102,8 @@ export const skillsSection = {
 
 export const SkillBars = [
     {
-      Stack: 'Frontend', //Insert stack or technology you have experience in
-      progressPercentage: '80', //Insert relative proficiency in percentage
+      Stack: 'Frontend',
+      progressPercentage: '80',
     },
     {
       Stack: 'Backend',
@@ -120,30 +120,13 @@ export const educationInfo = [
       schoolName: 'Port City International University,Chittagong.',
       subHeader: 'Bachelor of Science in Computer Science',
       duration: 'January 2016 - August 2020',
-      desc: 'Participated in the research of  and published 3 papers.',
+
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        " I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        " Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
     },
-    // {
-    //   schoolName: 'Islamia College,Chittagong',
-    //   subHeader: 'HSC-Science',
-    //   duration: 'June 2012 - August 2014',
-    //   desc: 'Studied Science',
-    //   descBullets: [
-    //     '',
-    //     '',
-    //   ],
-    // },
-    // {
-    //   schoolName: 'Stanford University',
-    //   subHeader: 'Bachelor of Science in Computer Science',
-    //   duration: 'September 2013 - April 2017',
-    //   desc:
-    //     'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-    //   descBullets: ['Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit'],
-    // },
+
 ]
 
 export const experience = [
@@ -166,16 +149,24 @@ export const projects = [
   {
     name: "lorem ipsum",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    link: {
+      name: "",
+      url: "kasjfklsdjf"
+    }
   },
   {
     name: "lorem ipsum",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
     link: {
-      name: "hanzla",
+      name: "",
+      url: "kasjfklsdjf"
+    }
+  },
+  {
+    name: "lorem ipsum",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    link: {
+      name: "",
       url: "kasjfklsdjf"
     }
   }

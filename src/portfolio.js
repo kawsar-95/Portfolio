@@ -18,11 +18,11 @@ export const contact = {
 }
 
 export const socialLinks = {
-    "facebook": "https://www.facebook.com/",
-    "instagram": "https://www.instagram.com/",
-    "twitter": "https://twitter.com/",
-    "github": "https://github.com/",
-    "linkedin": "https://www.linkedin.com/in/"
+    "facebook": "https://www.facebook.com/nurkawsar.1995/",
+    "instagram": "https://www.instagram.com/nuruddin_kawsar/",
+    "twitter": "https://twitter.com/nur_kawsar95",
+    "github": "https://github.com/kawsar-95",
+    "linkedin": "https://www.linkedin.com/in/nuruddin-kawsar/"
 }
 
 export const skillsSection = {
@@ -136,10 +136,10 @@ export const experience = [
     companylogo: googlelogo,
     date: 'October 2020 – Present',
     desc:
-      '',
+      'I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.',
     descBullets: [
-      '',
-      '',
+      ' I build websites that are responsive and provide great user experience',
+      'Meticulously commented code, well-named variables and also making the codebase maintainable in the long run.'
     ],
   },
 

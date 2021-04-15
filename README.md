@@ -33,13 +33,6 @@ npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
 
-## How To Use
-
-## Linking Portfolio to Github
-
-// portfolio.js
-githubUserName: 'YOUR GITHUB USERNAME HERE',
-
 #### Using Emojis
 
 For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms.

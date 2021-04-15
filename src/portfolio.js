@@ -6,7 +6,7 @@ export const greetings = {
     "name": "Nuruddin Kawsar",
     "title": "Hi all, I'm Nuruddin Kawsar",
     "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-    "resumeLink": ""
+    "resumeLink": "https://drive.google.com/file/d/1kaHuedmeEzbjWwTOt6E0j-gSNdwQd9L3/view?usp=sharing"
 }
 
 export const openSource = {
@@ -22,7 +22,9 @@ export const socialLinks = {
     "instagram": "https://www.instagram.com/nuruddin_kawsar/",
     "twitter": "https://twitter.com/nur_kawsar95",
     "github": "https://github.com/kawsar-95",
-    "linkedin": "https://www.linkedin.com/in/nuruddin-kawsar/"
+    "linkedin": "https://www.linkedin.com/in/nuruddin-kawsar/",
+    "medium": "https://kawsar95.medium.com/",
+    "gmail": "nuruddinkawsar1995@gmail.com",
 }
 
 export const skillsSection = {
@@ -147,8 +149,16 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Volunteer Network",
+    desc: "",
+    link: {
+      name: "",
+      url: "https://volunteer-network-app.netlify.app/"
+    }
+  },
+  {
     name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    desc: "",
     link: {
       name: "",
       url: "kasjfklsdjf"
@@ -156,15 +166,7 @@ export const projects = [
   },
   {
     name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    link: {
-      name: "",
-      url: "kasjfklsdjf"
-    }
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    desc: "",
     link: {
       name: "",
       url: "kasjfklsdjf"

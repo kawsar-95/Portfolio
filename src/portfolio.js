@@ -109,11 +109,11 @@ export const SkillBars = [
     },
     {
       Stack: 'Backend',
-      progressPercentage: '60',
+      progressPercentage: '65',
     },
     {
       Stack: 'Programming',
-      progressPercentage: '60',
+      progressPercentage: '55',
     },
   ]
 
@@ -150,26 +150,35 @@ export const experience = [
 export const projects = [
   {
     name: "Volunteer Network",
-    desc: "",
+    desc: "A single-page web app with a dashboard where users can select their courses and also can give reviews from their dashboard. And an Admin can check the course details and can delete them from his dashboard as well.Technology used React.js, Node.js, Express.js, MongoDB, React Bootstrap, Fire-AUTH, Firebase Hosting, Heroku, Heroku Deployment.",
     link: {
-      name: "",
+      name: "Volunteer Network",
       url: "https://volunteer-network-app.netlify.app/"
     }
   },
   {
-    name: "lorem ipsum",
-    desc: "",
+    name: "Real-time Chat App",
+    desc: "A real-time chatting application where people can create their private room and chat with each other.Techhnology used React.js, Node.js, Express.js, Socket.io, Firebase Hosting, Heroku",
     link: {
-      name: "",
-      url: "kasjfklsdjf"
+      name: "Real-time Chat App",
+      url: "https://quizzical-wilson-0410c4.netlify.app/"
     }
   },
   {
-    name: "lorem ipsum",
-    desc: "",
+    name: "Creative Agency",
+    desc: "A single-page web app with a dashboard where users can select their courses and also can give reviews from their dashboard. And an Admin can check the course details and can delete them from his dashboard as well. ",
     link: {
-      name: "",
-      url: "kasjfklsdjf"
+      name: "Creative Agency",
+      url: "https://creative-agency-5d0a0.web.app/"
     }
-  }
+  },
+  {
+    name: "Voice Controlled React News Application - Alan AI Voice Assistant",
+    desc: "A single-page web app  with Conversational Voice Controlled React News Application using Alan AI",
+    link: {
+      name: "Voice Controlled React News Application - Alan AI Voice Assistant",
+      url: "https://nervous-kowalevski-0c67a7.netlify.app/",
+
+    }
+  },
 ]

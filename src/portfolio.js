@@ -6,7 +6,7 @@ export const greetings = {
     "name": "Nuruddin Kawsar",
     "title": "Hi all, I'm Nuruddin Kawsar",
     "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-    "resumeLink": "https://drive.google.com/file/d/1kaHuedmeEzbjWwTOt6E0j-gSNdwQd9L3/view?usp=sharing"
+    "resumeLink": "https://drive.google.com/file/d/1DFzyViTSk8fyrW0TQAPhpcwNB9GQTjSY/view?usp=sharing"
 }
 
 export const openSource = {

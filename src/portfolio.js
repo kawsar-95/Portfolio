@@ -5,7 +5,7 @@ import googlelogo from './assets/img/icons/common/google.svg';
 export const greetings = {
     "name": "Nuruddin Kawsar",
     "title": "Hi all, I'm Nuruddin Kawsar",
-    "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+    "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
     "resumeLink": "https://drive.google.com/file/d/1DFzyViTSk8fyrW0TQAPhpcwNB9GQTjSY/view?usp=sharing"
 }
 
@@ -29,14 +29,14 @@ export const socialLinks = {
 
 export const skillsSection = {
     title: 'What I do',
-    subTitle: 'A FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+    subTitle: 'A FULL STACK WEB DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
     skills: [
       emoji(
         '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
       ),
       emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
       emoji(
-        '⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean'
+        '⚡ Integration of third party services such as Firebase'
       ),
     ],
 
@@ -69,10 +69,10 @@ export const skillsSection = {
         skillName: 'nodejs',
         fontAwesomeClassname: 'logos:nodejs-icon',
       },
-      {
-        skillName: 'flutter',
-        fontAwesomeClassname: 'logos:flutter',
-      },
+//       {
+//         skillName: 'flutter',
+//         fontAwesomeClassname: 'logos:flutter',
+//       },
       {
         skillName: 'npm',
         fontAwesomeClassname: 'vscode-icons:file-type-npm',
@@ -81,10 +81,10 @@ export const skillsSection = {
         skillName: 'mongoDB',
         fontAwesomeClassname: 'vscode-icons:file-type-mongo',
       },
-      {
-        skillName: 'aws',
-        fontAwesomeClassname: 'logos:aws',
-      },
+//       {
+//         skillName: 'aws',
+//         fontAwesomeClassname: 'logos:aws',
+//       },
       {
         skillName: 'firebase',
         fontAwesomeClassname: 'logos:firebase',

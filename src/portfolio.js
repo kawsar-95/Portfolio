@@ -133,7 +133,7 @@ export const educationInfo = [
 export const experience = [
   {
     role: 'Junior Software Engineer',
-    company: 'Together Initiatives Ltd.',
+    company: 'Together Initiatives',
     companylogo: googlelogo,
     date: 'August 2021 - Present',
     desc:

@@ -1,5 +1,4 @@
 import emoji from 'react-easy-emoji';
-import googlelogo from './assets/img/icons/common/google.svg';
 
 
 export const greetings = {
@@ -135,10 +134,10 @@ export const experience = [
   {
     role: 'Frontend Developer',
     company: 'Together Initiatives Ltd.',
-    companylogo: googlelogo,
+    // companylogo: googlelogo,
     date: 'August 2021 - Present',
     desc:
-      'I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.',
+      'Together has the experience and expertise to meet the software development need of world class enterprise. We are experienced in domain like health care, financial, consumer product, education and telecommunication.',
     descBullets: [
       ' I build websites that are responsive and provide great user experience',
       'Meticulously commented code, well-named variables and also making the codebase maintainable in the long run.'

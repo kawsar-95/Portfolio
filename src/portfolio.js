@@ -132,9 +132,9 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: 'Frontend Developer',
+    role: 'Junior Software Engineer',
     company: 'Together Initiatives Ltd.',
-    // companylogo: googlelogo,
+    companylogo: googlelogo,
     date: 'August 2021 - Present',
     desc:
       'Together has the experience and expertise to meet the software development need of world class enterprise.',

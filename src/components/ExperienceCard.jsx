@@ -1,18 +1,14 @@
-import React, {useState, createRef} from 'react';
-
+import ColorThief from "colorthief";
+import React, { createRef, useState } from 'react';
+import { Fade } from 'react-reveal';
 import {
     Card,
-    CardBody,
-    CardTitle,
-    CardSubtitle,
-    CardText,
-    CardHeader,
-    Col
-} from "reactstrap"; 
+    CardBody, CardHeader, CardSubtitle,
+    CardText, CardTitle, Col
+} from "reactstrap";
 
-import ColorThief from "colorthief";
 
-import { Fade } from 'react-reveal';
+
 
 const ExperienceCard = ({data}) => {
     const [colorArrays, setColorArrays] = useState([]);

@@ -137,7 +137,7 @@ export const experience = [
     // companylogo: googlelogo,
     date: 'August 2021 - Present',
     desc:
-      'Together has the experience and expertise to meet the software development need of world class enterprise. We are experienced in domain like health care, financial, consumer product, education and telecommunication.',
+      'Together has the experience and expertise to meet the software development need of world class enterprise.',
     descBullets: [
       ' I build websites that are responsive and provide great user experience',
       'Meticulously commented code, well-named variables and also making the codebase maintainable in the long run.'

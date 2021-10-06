@@ -89,10 +89,10 @@ export const skillsSection = {
         skillName: 'firebase',
         fontAwesomeClassname: 'logos:firebase',
       },
-      {
-        skillName: 'python',
-        fontAwesomeClassname: 'logos:python',
-      },
+      // {
+      //   skillName: 'python',
+      //   fontAwesomeClassname: 'logos:python',
+      // },
       {
         skillName: 'git',
         fontAwesomeClassname: 'logos:git-icon',
@@ -134,9 +134,9 @@ export const educationInfo = [
 export const experience = [
   {
     role: 'Frontend Developer',
-    company: 'Octapia',
+    company: 'Together Initiatives Ltd.',
     companylogo: googlelogo,
-    date: 'October 2020 – Present',
+    date: 'August 2021 - Present',
     desc:
       'I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.',
     descBullets: [

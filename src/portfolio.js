@@ -132,7 +132,7 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: 'Junior Frontend Developer',
+    role: 'Frontend Developer',
     company: 'Together Initiatives',
     companylogo: googlelogo,
     date: 'August 2021 - Present',

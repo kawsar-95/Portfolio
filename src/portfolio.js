@@ -2,10 +2,10 @@ import emoji from 'react-easy-emoji';
 
 
 export const greetings = {
-    "name": "Nuruddin Kawsar",
-    "title": "Hi all, I'm Nuruddin Kawsar",
-    "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
-    "resumeLink": "https://drive.google.com/file/d/1DFzyViTSk8fyrW0TQAPhpcwNB9GQTjSY/view?usp=sharing"
+  "name": "Nuruddin Kawsar",
+  "title": "Hi all, I'm Nuruddin Kawsar",
+  "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+  "resumeLink": "https://drive.google.com/file/d/1DFzyViTSk8fyrW0TQAPhpcwNB9GQTjSY/view?usp=sharing"
 }
 
 export const openSource = {
@@ -17,132 +17,143 @@ export const contact = {
 }
 
 export const socialLinks = {
-    "facebook": "https://www.facebook.com/nurkawsar.1995/",
-    "instagram": "https://www.instagram.com/nuruddin_kawsar/",
-    "twitter": "https://twitter.com/nur_kawsar95",
-    "github": "https://github.com/kawsar-95",
-    "linkedin": "https://www.linkedin.com/in/nuruddin-kawsar/",
-    "medium": "https://kawsar95.medium.com/",
-    "gmail": "nuruddinkawsar1995@gmail.com",
+  "facebook": "https://www.facebook.com/nurkawsar.1995/",
+  "instagram": "https://www.instagram.com/nuruddin_kawsar/",
+  "twitter": "https://twitter.com/nur_kawsar95",
+  "github": "https://github.com/kawsar-95",
+  "linkedin": "https://www.linkedin.com/in/nuruddin-kawsar/",
+  "medium": "https://kawsar95.medium.com/",
+  "gmail": "nuruddinkawsar1995@gmail.com",
 }
 
 export const skillsSection = {
-    title: 'What I do',
-    subTitle: 'A FULL STACK WEB DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
-    skills: [
-      emoji(
-        '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
-      ),
-      emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
-      emoji(
-        '⚡ Integration of third party services such as Firebase'
-      ),
-    ],
+  title: 'What I do',
+  subTitle: 'A FULL STACK WEB DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  skills: [
+    emoji(
+      '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
+    ),
+    emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
+    emoji(
+      '⚡ Integration of third party services such as Firebase'
+    ),
+  ],
 
-    softwareSkills: [
-      {
-        skillName: 'html-5',
-        fontAwesomeClassname: 'vscode-icons:file-type-html',
-      },
-      {
-        skillName: 'css3',
-        fontAwesomeClassname: 'vscode-icons:file-type-css',
-      },
-      {
-        skillName: 'sass',
-        fontAwesomeClassname: 'logos:sass',
-      },
-      {
-        skillName: 'JavaScript',
-        fontAwesomeClassname: 'logos:javascript',
-      },
-      {
-        skillName: 'TypeScript',
-        fontAwesomeClassname: 'logos:typescript-icon',
-      },
-      {
-        skillName: 'reactjs',
-        fontAwesomeClassname: 'vscode-icons:file-type-reactjs',
-      },
-      {
-        skillName: 'nodejs',
-        fontAwesomeClassname: 'logos:nodejs-icon',
-      },
-//       {
-//         skillName: 'flutter',
-//         fontAwesomeClassname: 'logos:flutter',
-//       },
-      {
-        skillName: 'npm',
-        fontAwesomeClassname: 'vscode-icons:file-type-npm',
-      },
-      {
-        skillName: 'mongoDB',
-        fontAwesomeClassname: 'vscode-icons:file-type-mongo',
-      },
-//       {
-//         skillName: 'aws',
-//         fontAwesomeClassname: 'logos:aws',
-//       },
-      {
-        skillName: 'firebase',
-        fontAwesomeClassname: 'logos:firebase',
-      },
-      // {
-      //   skillName: 'python',
-      //   fontAwesomeClassname: 'logos:python',
-      // },
-      {
-        skillName: 'git',
-        fontAwesomeClassname: 'logos:git-icon',
-      },
+  softwareSkills: [
+    {
+      skillName: 'html-5',
+      fontAwesomeClassname: 'vscode-icons:file-type-html',
+    },
+    {
+      skillName: 'css3',
+      fontAwesomeClassname: 'vscode-icons:file-type-css',
+    },
+    {
+      skillName: 'sass',
+      fontAwesomeClassname: 'logos:sass',
+    },
+    {
+      skillName: 'JavaScript',
+      fontAwesomeClassname: 'logos:javascript',
+    },
+    {
+      skillName: 'TypeScript',
+      fontAwesomeClassname: 'logos:typescript-icon',
+    },
+    {
+      skillName: 'reactjs',
+      fontAwesomeClassname: 'vscode-icons:file-type-reactjs',
+    },
+    {
+      skillName: 'nodejs',
+      fontAwesomeClassname: 'logos:nodejs-icon',
+    },
+    {
+      skillName: 'React Native',
+      fontAwesomeClassname: 'logos:flutter',
+    },
+    {
+      skillName: 'npm',
+      fontAwesomeClassname: 'vscode-icons:file-type-npm',
+    },
+    {
+      skillName: 'mongoDB',
+      fontAwesomeClassname: 'vscode-icons:file-type-mongo',
+    },
+    //       {
+    //         skillName: 'aws',
+    //         fontAwesomeClassname: 'logos:aws',
+    //       },
+    {
+      skillName: 'firebase',
+      fontAwesomeClassname: 'logos:firebase',
+    },
+    {
+      skillName: 'python',
+      fontAwesomeClassname: 'logos:python',
+    },
+    {
+      skillName: 'git',
+      fontAwesomeClassname: 'logos:git-icon',
+    },
 
-    ],
+  ],
 }
 
 
 export const SkillBars = [
-    {
-      Stack: 'Frontend',
-      progressPercentage: '80',
-    },
-    {
-      Stack: 'Backend',
-      progressPercentage: '65',
-    },
-    {
-      Stack: 'Programming',
-      progressPercentage: '55',
-    },
-  ]
+  {
+    Stack: 'Frontend',
+    progressPercentage: '80',
+  },
+  {
+    Stack: 'Backend',
+    progressPercentage: '65',
+  },
+  {
+    Stack: 'Programming',
+    progressPercentage: '55',
+  },
+]
 
 export const educationInfo = [
-    {
-      schoolName: 'Port City International University,Chittagong.',
-      subHeader: 'Bachelor of Science in Computer Science',
-      duration: 'January 2016 - August 2020',
+  {
+    schoolName: 'Port City International University,Chittagong.',
+    subHeader: 'Bachelor of Science in Computer Science',
+    duration: 'January 2016 - August 2020',
 
-      descBullets: [
-        " I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        " Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-      ],
-    },
+    descBullets: [
+      " I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+      " Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+    ],
+  },
 
 ]
 
 export const experience = [
+  // {
+  //   role: 'Frontend Developer',
+  //   company: 'Together Initiatives',
+  //   companylogo: googlelogo,
+  //   date: 'August 2021 - Present',
+  //   desc:
+  //     'Together has the experience and expertise to meet the software development need of world class enterprise.',
+  //   descBullets: [
+  //     ' I build websites that are responsive and provide great user experience',
+  //     'Meticulously commented code, well-named variables and also making the codebase maintainable in the long run.'
+  //   ],
+
+  // },
   {
-    role: 'Frontend Developer',
-    company: 'Together Initiatives',
-    companylogo: googlelogo,
-    date: 'August 2021 - Present',
-    desc:
-      'Together has the experience and expertise to meet the software development need of world class enterprise.',
-    descBullets: [
-      ' I build websites that are responsive and provide great user experience',
-      'Meticulously commented code, well-named variables and also making the codebase maintainable in the long run.'
-    ],
-  },
+    role: "Frontend Developer",
+    company: "Together Initiatives",
+    companylogo: "/img/icons/common/airbnbLogo.png",
+    date: "August 2021 - Present",
+    desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using React Js, Bootstrap, Chart.js and some other libraries.",
+
+
+  }
+
 
 ]
 
